@@ -13,6 +13,11 @@
             "name": "Chuk Shirley",
             "email": "chukShirley@gmail.com",
             "homepage": "http://github.com/chukShirley"
+        },
+        {
+            "name" : "Guido Faecke",
+            "email" : "guido@faecke.us",
+            "homepage" : "http://faecke.us"
         }
     ],
     "require": {
